@@ -9,9 +9,6 @@ hsDustConverter
 .. image:: https://app.travis-ci.com/savkorlev/hsdustconverter.svg?branch=main
         :target: https://app.travis-ci.com/savkorlev/hsdustconverter
 
-.. image:: https://readthedocs.org/projects/hsdustconverter/badge/?version=latest
-        :target: https://hsdustconverter.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
 
 
 
