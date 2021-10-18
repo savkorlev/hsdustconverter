@@ -6,13 +6,9 @@ python:
 
 install:
     - pip install -e .
-    - pip install pytest-cov codecov
 
-# Command to run tests, e.g. python setup.py test
 script: 
-    - pytest tests --cov=src tests
+    - pytest tests
 
-after_success:
-    - codecov
 
 
